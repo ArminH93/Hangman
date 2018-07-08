@@ -1,6 +1,9 @@
 # hangman
 
-A new Flutter project.
+Hangman App for Android and iOS built with Dart and Flutter.
+
+# Credits
+https://github.com/montyr75/hangman/blob/master/lib/src/hangman.dart
 
 ## Getting Started
 
